@@ -1,4 +1,5 @@
-Analyzing the Run Time of  Floyd-Warshall and Dijkstra's Algorithm
+# Floyd-Warshall-Vs-Dijkstra-s-Algorithm
+ Analyzing the Run Time of  Floyd-Warshall and Dijkstra's Algorithm
 
 The program was successfully compiled and run on the linux servers for The University of North Texas
 
@@ -21,3 +22,11 @@ data will produce a file graph.txt.  This must be included as a command line arg
 The programs will automaically run their algorithm on the txt file you've included, and in turn will produce a .txt file of their own.
 
 This file will include information about the array, the run time, and the newly completed graph.
+
+For sake of testing, sample files have been included to show proper output for the following:
+
+graph.txt
+DijkstraCompleted.txt
+FloydCompleted.txt
+
+Also included is a summary of my findings when analyzing the the two algorithms. 
