@@ -23,3 +23,11 @@ The programs will automaically run their algorithm on the txt file you've includ
 
 This file will include information about the array, the run time, and the newly completed graph.
 
+For sake of testing, sample files have been included to show proper output for the following:
+
+graph.txt
+DijkstraCompleted.txt
+FloydCompleted.txt
+
+Also included is a summary of my findings when analyzing the the two algorithms. 
+
