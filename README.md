@@ -31,3 +31,6 @@ FloydCompleted.txt
 
 Also included is a summary of my findings when analyzing the the two algorithms. 
 
+When this is undoubtedly found by some panicked UNT student looking for an easy way through this project, I want to offer this advice.
+
+Breathe.  Take a step back, think about the problem, and breathe.  
